@@ -6,6 +6,7 @@ public class HelloWord {
 
 		
 		System.out.println("Hello Git");
+		System.out.println("my first update on git");
 	}
 
 }
